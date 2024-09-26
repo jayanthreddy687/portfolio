@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Cerv (Casuality Evacuation Robotic Vechicle)",
+    "desc": "This is a self‑driving robotic vehicle that transports injured soldiers to base camp. Robot has a camera that sends video to base camp and is programmed with advanced mapping algorithms that allow robot to get close to the solider and bring them back. <br> <b> Tech Stack </b> : ESP Cam, Arduino Mega, IoT, Arduino IDE",
+    "image": "tracky",
+    "category": "native_android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=achivementtrackerbyamit.example.achivetracker",
+      "code": "https://github.com/maityamit/Tracky-Track-your-goals-or-targets"
+    }
+  },
+  {
+    "name": "Electrocution Prevention Using IoT",
+    "desc": "This device detects electric shock and alerts the appropriate department as well as those nearby, and all devices are monitored via a web application. A research paper is also published for this project.<br> <b>Tech Stack:</b> C++, Sensors, Node‑Mcu, IoT.",
+    "image": "native_android",
+    "category": "Iot",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=sleepometerbyamitmaity.example.sleepometer",
+      "code": "https://github.com/maityamit/Sleepometer-Android-App"
+    }
+  },
+  {
+    "name": "Infernocenzo ‑ Home Safety, Security and Surveillance",
+    "desc": "This is an all‑in‑one smart vacuum cleaner. Vaccum cleaner cleans the house while also protecting it by detecting gas leaks or AC malfunction gas leaks. The robot detects it and notify the owner, and it includes a camera for monitoring the house. Vaccum cleaner also has a fire extinguisher and a slew of other features. For this project Patent is granted. <br> <b> Tech Stack: </b> Python, Image Processing, Raspberry Pi, IoT, Sensors.",
+    "image": "git_peek",
+    "category": "native_android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=githubpeekbyamit.example.githubpeek",
+      "code": "https://github.com/maityamit/Github-Peek-Android-App"
+    }
+  },
+  {
+    "name": "Share Layout Android Library",
+    "desc": "Share any layout screenshot including any string of any Android App to any app via Intent .",
+    "image": "share_lay",
+    "category": "library",
+    "links": {
+      "view": "https://github.com/maityamit/Share_Layout_Android_Library",
+      "code": "https://github.com/maityamit/Share_Layout_Android_Library"
+    }
+  }
+]
